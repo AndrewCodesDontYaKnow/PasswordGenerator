@@ -17,11 +17,11 @@ URL: https://andrewcodesdontyaknow.github.io/PasswordGenerator/
 
   <a href='#Questions'>Questions</a>
   
-  Screenshot of generated password
-  ![Password Generator screenshot](./img/pg1.png?)
-  
   Screenshot of password length prompt
   ![Password Generator screenshot](./img/pg2.png?)
+  
+  Screenshot of generated password
+  ![Password Generator screenshot](./img/pg1.png?)
 
 
   ## <a id='Installation' style='color:white;'>Installation</a>
